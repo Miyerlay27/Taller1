@@ -1,0 +1,5 @@
+# Este es un archivo de prueba del taller 1
+
+# En este archivo se almacenará toda la información requerida en el Taller1.
+
+# Este es el nuevo registo de cambios realizados al archivo para dar respuesta al punto 4 del Taller 1

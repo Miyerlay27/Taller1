@@ -1,0 +1,13 @@
+# Este es el tercer archivo creado en el taller.
+
+# En este archivo se describira el proceso de control de versiones que permite realizar GitHub
+
+# El control de versiones es un sistema que ayuda a rastrear y gestionar los cambios realizados en un archivo o conjunto de archivos. Utilizado principalmente por ingenieros de software para hacer un seguimiento de las modificaciones realizadas en el código fuente, el sistema de control de versiones les permite analizar todos los cambios y revertirlos sin repercusiones si se comete un error.
+
+# En otras palabras, el control de versiones permite a los desarrolladores trabajar en proyectos simultáneamente. Les permite hacer tantos cambios como necesiten sin infringir o retrasar el trabajo de sus colegas.
+
+# Si esos cambios en el código fuente arruinan el proyecto cuando se implementan, GitHub hace que sea fácil revertirlos con unos pocos clics, y se recuperará la versión anterior del proyecto.
+
+# En síntesis, el control de versiones elimina los riesgos y el miedo a cometer demasiados errores. En cambio, proporciona la libertad de colaborar y desarrollar sin demasiadas preocupaciones.
+
+
